@@ -1,4 +1,4 @@
-# Example with if statements and dictionaries
+# Example2: if statements and dictionaries
 
 x=5
 if x==2:   print "x=2"
